@@ -1,1 +1,4 @@
-python-3.11.9
+python-telegram-bot==22.7
+requests
+python-dotenv
+python-binance==1.0.19
